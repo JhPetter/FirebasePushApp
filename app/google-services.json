@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799577928809",
+    "project_id": "caleidos-8d17b",
+    "storage_bucket": "caleidos-8d17b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799577928809:android:cefe57e803f711e8639ef8",
+        "android_client_info": {
+          "package_name": "com.caleidos.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799577928809-snhhro4f840k0b9cse9kn6sm8n41g16k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Dn7qFS2VAqxHkATSVeFWBdAHYb2lv5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799577928809-snhhro4f840k0b9cse9kn6sm8n41g16k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

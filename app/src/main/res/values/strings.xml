@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="default_notification_channel_id">cleidos_01</string>
+    <string name="default_notification_channel_Name">Esta es una notificacion de cleidos</string>
+</resources>
