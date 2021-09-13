@@ -11,7 +11,7 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
 
     override fun onMessageReceived(p0: RemoteMessage) {
         super.onMessageReceived(p0)
-        p0.notification?.run {
+        p0.run {
             showNotification(this@MyFirebaseMessagingService.applicationContext, this)
         }
     }
