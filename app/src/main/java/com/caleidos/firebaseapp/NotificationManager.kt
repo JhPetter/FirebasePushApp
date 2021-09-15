@@ -54,7 +54,7 @@ fun showNotification(context: Context, notification: RemoteMessage) {
 
         }, PendingIntent.FLAG_UPDATE_CURRENT)
     builder.setContentIntent(pendingIntent)
-
+    builder.setAutoCancel(true)
     with(NotificationManagerCompat.from(context)) {
         notify(1, builder.build())
     }
